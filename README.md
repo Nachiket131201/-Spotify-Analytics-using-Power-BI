@@ -1,5 +1,7 @@
 # Spotify-songs-analysis-using-Power-BI
 ![Spotify_Dashboard_pages-to-jpg-0001](https://github.com/Nachiket131201/Spotify-songs-analysis-using-Power-BI/assets/71268411/b32aae71-b210-45db-8a81-580b8e743605)
+https://app.powerbi.com/groups/me/reports/371cae78-cc13-49d5-8c02-b8f4da9ce896/ReportSection?experience=power-bi
+
 In this project I have created a customized spotify Dashboard for analyzing music
 
 For this I have used an add on named Bravo which helps in arranging the Date datatype very easily and embedd it into the data seamlessly
