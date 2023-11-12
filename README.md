@@ -7,7 +7,7 @@ For this I have
 
 -Implemented advanced data cleaning and preprocessing techniques to enhance data quality and accuracy.
 
--Incorporated rich visuals and innovative features:
+-Incorporated rich visuals and innovative features
 
 -Integrated song pictures into the dashboard for a visually immersive experience.
 
