@@ -4,9 +4,14 @@ https://app.powerbi.com/groups/me/reports/371cae78-cc13-49d5-8c02-b8f4da9ce896/R
 
 In this project I have created a customized spotify Dashboard for analyzing music
 
-For this I have used an add on named Bravo which helps in arranging the Date datatype very easily and embedd it into the data seamlessly
+For this I have 
 
-The cover images for tracks in the dataset were imported via web through HTML add-on.
+-Utilized HTML scripting and D3.js (Deneb library) to create a dynamic and visually appealing dashboard.
 
-For the customized Heatmap,I used Deneb Add-on which is Basically an JSON based custom visual.
-             
+-Implemented advanced data cleaning and preprocessing techniques to enhance data quality and accuracy.
+
+-Incorporated rich visuals and innovative features:
+
+-Integrated song pictures into the dashboard for a visually immersive experience.
+
+-Employed advanced DAX commands for robust data analysis, contributing to a comprehensive and insightful Spotify data visualization tool.
